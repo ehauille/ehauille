@@ -1,8 +1,11 @@
 
 
-# 👋 Hi, My name is Elias, I'm from Argentina and I'm an IT Analyst.
+# 👋 Hi, I'm Elias
 
- 💻 My actual skills and tools =>
+ 💻 I'm going to be a computer engineer someday.
+ 💪🏼 I'm currently studying to be one
+
+ My actual skills and tools =>
   - Zabbix + Grafana
   - Huawei 
   - Citrix
@@ -14,13 +17,13 @@
   - Java with Spinrg Boot and Angular
   - VS Code
 
- A bit of me =>
-  - I like to learn technologies to help people in whatever i can.
-  - I'm a fan of microprocessor and automation system.
-  - Working today in LCS Tech.
-
  Languages =>
   - Spanish: Native
   - English: Advanced
   - Portuguese: Advanced
   - Practicing: French & Italian
+
+ A bit of me =>
+  - I like to learn technologies to help people in whatever i can.
+  - I'm a fan of microprocessor and automation system.
+  - Working today in LCS Tech.
