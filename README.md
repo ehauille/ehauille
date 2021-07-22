@@ -1,4 +1,4 @@
-#👋 Hi, My name is Elias, I'm from Argentina and I'm an IT Analyst.
+👋 Hi, My name is Elias, I'm from Argentina and I'm an IT Analyst.
 
 # 💻 My actual skills and tools =>
   - Zabbix + Grafana
