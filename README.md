@@ -14,8 +14,6 @@
   - Docker
   - Python
   - SQL Server
-  - Java with Spinrg Boot and React
-  - Java with Spinrg Boot and Angular
   - VS Code
 
  Languages =>
