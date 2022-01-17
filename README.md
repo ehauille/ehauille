@@ -8,10 +8,11 @@
  My actual skills and tools =>
   - Zabbix + Grafana
   - Huawei 
-  - Citrix
   - Linux Server
   - Windows Server
   - Docker
+  - Kubernetes
+  - GitOps
   - Python
   - SQL Server
   - VS Code
@@ -20,7 +21,7 @@
   - Spanish: Native
   - English: Advanced
   - Portuguese: Advanced
-  - Practicing: French 
+  
 
  A bit of me =>
   - I like to learn technologies to help people in whatever i can.
