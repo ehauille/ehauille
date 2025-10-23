@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Elias
 
-Cloud & Infrastructure Consultant — focused on automation, monitoring, and building scalable environments.  
+Cloud & Infrastructure Consultant 
 
 
 ---
