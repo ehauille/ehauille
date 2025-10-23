@@ -17,9 +17,6 @@ Cloud & Infrastructure Consultant — focused on automation, monitoring, and bui
 **Monitoring & Observability:**  
 📈 Zabbix · Prometheus · Grafana  
 
-**Development & DB:**  
-🐍 Python · 💾 SQL Server · PostgreSQL  
-
 **Tools I Use Daily:**  
 🧠 VS Code · Git · Terminal (lots of it)
 
@@ -27,9 +24,9 @@ Cloud & Infrastructure Consultant — focused on automation, monitoring, and bui
 
 ## 🌐 Languages
 
-- 🇪🇸 Spanish — Native  
-- 🇺🇸 English — Advanced  
-- 🇧🇷 Portuguese — Advanced  
+- 🇪🇸 Spanish
+- 🇺🇸 English
+- 🇧🇷 Portuguese
 
 ---
 
@@ -49,7 +46,7 @@ Cloud & Infrastructure Consultant — focused on automation, monitoring, and bui
 ## 📫 Let's connect
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/elias-hauille-527476178/)
-- [🌐 StrongCloud](https://strongcloud.ar)
+- [🌐 StrongCloud](https://www.strongcloud.online/)
 
 
-> If you're into cloud, automation or tech that makes life easier — let's talk.
+
